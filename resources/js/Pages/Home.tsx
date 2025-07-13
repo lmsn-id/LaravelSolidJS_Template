@@ -39,13 +39,13 @@ export default function Home() {
 
                         <div class="flex justify-center gap-4">
                             <Link
-                                href="/docs"
+                                href="https://github.com/lmsn-id/LaravelSolidJS_Template.git"
                                 class="px-8 py-3 bg-gradient-to-r from-indigo-600 to-blue-500 text-white rounded-lg shadow-lg hover:shadow-xl transition-all"
                             >
                                 Get Started →
                             </Link>
                             <Link
-                                href="https://github.com/your-repo"
+                                href="https://github.com/lmsn-id/"
                                 target="_blank"
                                 class="px-8 py-3 bg-white/80 border border-gray-200 rounded-lg backdrop-blur-sm hover:bg-white transition-all"
                             >

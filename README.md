@@ -1,7 +1,11 @@
-Laravel SolidJS Template 🚀
-https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.png
-Favicon: https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.ico
+# Laravel SolidJS Template 🚀
 
+![Laravel+SolidJS Logo](https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/Icon.png)  
+**Favicon**: ![favicon](https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.ico)
+
+## 🔥 Modern Full-Stack Starter Template
+
+Template hybrid yang menggabungkan...
 🔥 Modern Full-Stack Starter Template
 Template hybrid yang menggabungkan kekuatan Laravel (backend) dengan SolidJS (frontend) melalui Inertia.js, memberikan pengembangan full-stack yang ultra efisien.
 
