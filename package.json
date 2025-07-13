@@ -22,7 +22,9 @@
         "lightningcss-linux-x64-gnu": "^1.29.1"
     },
     "devDependencies": {
+        "@types/node": "^24.0.13",
         "inertia-adapter-solid": "^0.2.0",
+        "typescript": "^5.8.3",
         "vite-plugin-solid": "^2.11.7"
     }
 }

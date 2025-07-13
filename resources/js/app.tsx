@@ -4,8 +4,8 @@ import "../css/app.css";
 
 createInertiaApp({
     resolve(name) {
-        const pages = import.meta.glob("./Pages/**/*.jsx");
-        return pages[`./Pages/${name}.jsx`]();
+        const pages = import.meta.glob("./Pages/**/*.tsx");
+        return pages[`./Pages/${name}.tsx`]();
     },
     setup({ el, App, props }) {
         render(() => <App {...props} />, el);
