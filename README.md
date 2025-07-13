@@ -1,7 +1,6 @@
 # Laravel SolidJS Template 🚀
 
-![Laravel+SolidJS Logo](https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/Icon.png)  
-**Favicon**: ![favicon](https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.ico)
+![Laravel+SolidJS Logo](https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.png) ![favicon](https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.ico)
 
 ## 🔥 Modern Full-Stack Starter Template
 
