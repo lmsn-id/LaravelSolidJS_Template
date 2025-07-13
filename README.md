@@ -1,93 +1,8 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Laravel SolidJS Template</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
+<h1 align="center">Laravel SolidJS Template 🚀</h1>
 
-    h1, h2 {
-      text-align: center;
-      color: #1a202c;
-    }
-
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-
-    ul {
-      padding-left: 1.2rem;
-    }
-
-    .logo-wrapper {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-
-    .logo-wrapper img {
-      vertical-align: middle;
-      margin-right: 12px;
-      height: 80px;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-
-    .struktur {
-      font-family: monospace;
-      white-space: pre;
-      background-color: #edf2f7;
-      padding: 1rem;
-      border-radius: 6px;
-    }
-
-    a {
-      color: #2b6cb0;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    @media (min-width: 768px) {
-      .grid {
-        grid-template-columns: 1fr 1fr;
-      }
-    }
-
-  </style>
-</head>
-<body>
-
-  <h1>Laravel SolidJS Template 🚀</h1>
-
-  <div class="logo-wrapper">
-    <img src="https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.png" alt="Laravel + SolidJS Logo" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lmsn-id/LaravelSolidJS_Template/main/public/favicon.png" alt="Laravel+SolidJS Logo"  style="margin-right: 12px;" />
+</div>
 
   <h2>🔥 Modern Full-Stack Starter Template</h2>
   <p>
@@ -164,6 +79,3 @@ bun dev</code></pre>
     <li><a href="https://docs.solidjs.com/" target="_blank">SolidJS Documentation</a></li>
     <li><a href="https://inertiajs.com/" target="_blank">Inertia.js Documentation</a></li>
   </ul>
-
-</body>
-</html>
